@@ -1,0 +1,64 @@
+{
+"foods":[
+  {
+  "foodId":1,
+  "id":1,
+  "name":"Pasta"
+  "body":"Pasta is a type of food made from a mixture of flour, eggs, and water that is formed into different shapes and then boiled. Spaghetti, macaroni, and noodles are types of pasta."
+  },
+  {
+  "foodId":1,
+  "id":2,
+  "name":"Frid rice"
+  "body":"Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish. "
+  },
+  {
+  "foodId":2,
+  "id":3,
+  "name":"Sandwitch"
+  "body":"A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type."
+  },
+  {
+  "foodId":2,
+  "id":4,
+  "name":"Pizza"
+  "body":"Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, mushrooms, onions, olives, pineapple, meat, etc.), which is then baked at a high temperature."
+  },
+  {
+  "foodId":2,
+  "id":5,
+  "name":"burger"
+  "body":"burgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis, condiments such as ketchup, mustard, mayonnaise, relish."
+  },
+  {
+  "foodId":3,
+  "id":6,
+  "name":"French fries"
+  "body":"French frice/chips are prepared by cutting the potato into even strips, then drying and frying it. Most french fries are produced from frozen Russet potatoes."
+  },
+  {
+  "foodId":4,
+  "id":7,
+  "name":"Fruit juice"
+  "body":"Fruit juice is 100% pure juice made from the flesh of fresh fruit or from whole fruit, depending on the type used."
+  },
+  {
+  "foodId":4,
+  "id":8,
+  "name":"Veggie juice"
+  "body":"Veggie juice is 100% pure juice made from the flesh of fresh vegitables or from whole vegitable, depending on the type used."
+  },
+  {
+  "foodId":4,
+  "id":9,
+  "name":"Tea"
+  "body":"Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis"
+  },
+  {
+  "foodId":5,
+  "id":10,
+  "name":"Cake"
+  "body":"Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked."
+  }
+]
+}
