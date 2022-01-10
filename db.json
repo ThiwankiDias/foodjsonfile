@@ -56,7 +56,7 @@
   "id":8,
   "name":"Veggie juice",
   "body":"Veggie juice is 100% pure juice made from the flesh of fresh vegitables or from whole vegitable, depending on the type used.",
-  "image":"	https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…_6L_JrHzm5l8Oo0AUptLn1vwr15PewSX9cwjsRvg&usqp=CAU"
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…_6L_JrHzm5l8Oo0AUptLn1vwr15PewSX9cwjsRvg&usqp=CAU"
   },
   {
   "foodId":4,
@@ -70,7 +70,7 @@
   "id":10,
   "name":"Cake",
   "body":"Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked.",
-  "image":"	https://thescranline.com/wp-content/uploads/2021/03/Chocolate-Cake.jpg"
+  "image":"https://thescranline.com/wp-content/uploads/2021/03/Chocolate-Cake.jpg"
   }
 ]
 }
