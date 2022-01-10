@@ -12,21 +12,21 @@
   "id":2,
   "name":"Frid rice",
   "body":"Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish. ",
-  "image":"https://images.app.goo.gl/177fEnN6BYPMAQX46"
+  "image":"https://images.aws.nestle.recipes/resized/c6e3527a…0_hot_butter_cuttlefish_web_thumbnail_744_419.jpg"
   },
   {
   "foodId":2,
   "id":3,
   "name":"Sandwitch",
   "body":"A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type.",
-  "image":"https://images.app.goo.gl/ge6iQkiFmzcXGeqm6"
+  "image":"https://insanelygoodrecipes.com/wp-content/uploads…omemade-Grilled-Cheese-Sandwich-with-Tomatoes.png"
   },
   {
   "foodId":2,
   "id":4,
   "name":"Pizza",
   "body":"Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, mushrooms, onions, olives, pineapple, meat, etc.), which is then baked at a high temperature.",
-  "image":"https://images.app.goo.gl/pr8En498NiGUxRNfA"
+  "image":"https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg"
   
   },
   {
@@ -34,7 +34,7 @@
   "id":5,
   "name":"burger",
   "body":"burgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis, condiments such as ketchup, mustard, mayonnaise, relish.",
-  "image":"https://images.app.goo.gl/rXc7hfPn3XH2ByoN8"
+  "image":"https://images.unsplash.com/photo-1571091718767-18…3x8YmVlZiUyMGJ1cmdlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
  
   },
   {
@@ -42,35 +42,35 @@
   "id":6,
   "name":"French fries",
   "body":"French frice/chips are prepared by cutting the potato into even strips, then drying and frying it. Most french fries are produced from frozen Russet potatoes.",
-  "image":"https://images.app.goo.gl/35jffzRfgXo6uhxD6"
+  "image":"https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"
   },
   {
   "foodId":4,
   "id":7,
   "name":"Fruit juice",
   "body":"Fruit juice is 100% pure juice made from the flesh of fresh fruit or from whole fruit, depending on the type used.",
-  "image":"https://images.app.goo.gl/aDHqSr1a9i9UZvRUA"
+  "image":"https://static.toiimg.com/thumb/53961652.cms?imgsize=454579&width=800&height=800"
   },
   {
   "foodId":4,
   "id":8,
   "name":"Veggie juice",
   "body":"Veggie juice is 100% pure juice made from the flesh of fresh vegitables or from whole vegitable, depending on the type used.",
-  "image":"https://images.app.goo.gl/euQSqfYhbmLQXZRt5"
+  "image":"	https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…_6L_JrHzm5l8Oo0AUptLn1vwr15PewSX9cwjsRvg&usqp=CAU"
   },
   {
   "foodId":4,
   "id":9,
   "name":"Tea",
   "body":"Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis",
-  "image":"https://images.app.goo.gl/ADnzdrux9bvHEJW16"
+  "image":"https://www.unicomtea.com/wp-content/uploads/2020/12/How-to-brew-the-perfect-cup-of-tea.jpg"
   },
   {
   "foodId":5,
   "id":10,
   "name":"Cake",
   "body":"Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked.",
-  "image":"https://images.app.goo.gl/9tn34Bx1n6t3ffbE7"
+  "image":"	https://thescranline.com/wp-content/uploads/2021/03/Chocolate-Cake.jpg"
   }
 ]
 }
